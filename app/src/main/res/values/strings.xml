@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">wcl-permission-demo</string>
+    <string name="permission">权限(permission)</string>
+    <string name="no_permissions">应用需要必要的运行权限</string>
+</resources>
