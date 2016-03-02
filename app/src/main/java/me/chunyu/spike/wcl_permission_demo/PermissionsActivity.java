@@ -129,6 +129,8 @@ public class PermissionsActivity extends AppCompatActivity {
             }
         });
 
+        builder.setCancelable(false);
+
         builder.show();
     }
 

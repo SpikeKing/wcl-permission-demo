@@ -42,29 +42,18 @@
             <id />
           </State>
           <State>
-            <id>Android &gt; Lint &gt; Correctness</id>
+            <id>Android</id>
           </State>
           <State>
-            <id>C/C++</id>
-          </State>
-          <State>
-            <id>Data flow issuesJava</id>
-          </State>
-          <State>
-            <id>General</id>
+            <id>Android Lint</id>
           </State>
           <State>
             <id>Java</id>
           </State>
           <State>
-            <id>Unused codeC/C++</id>
+            <id>Java language level migration aidsJava</id>
           </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>Android</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -83,6 +72,9 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="masterDetails">
     <states>
