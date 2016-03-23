@@ -1,5 +1,7 @@
 # wcl-permission-demo
 
+> 欢迎Follow我的[GitHub](https://github.com/SpikeKing)
+
 Android 6.0 - 动态权限管理的解决方案.
 
 博客: http://www.wangchenlong.org/
